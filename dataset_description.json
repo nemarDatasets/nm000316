@@ -1,0 +1,37 @@
+{
+    "Name": "IMUMIA2026",
+    "BIDSVersion": "1.9.0",
+    "HEDVersion": "8.4.0",
+    "DatasetType": "derivative",
+    "License": "CC-BY-4.0",
+    "Authors": [
+        "Jianxiu Li",
+        "Changming Wang",
+        "Chao Chen"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.5281/zenodo.20421767"
+    ],
+    "Keywords": [
+        "EEG",
+        "motor imagery",
+        "BCI",
+        "fine motor imagery"
+    ],
+    "DatasetDOI": "doi:10.5281/zenodo.20421767",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/NeuroTechX/moabb",
+            "Name": "moabb",
+            "Description": "Mother of All BCI Benchmarks",
+            "Version": "1.8.0dev0"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "10.5281/zenodo.20421767",
+            "URL": "https://doi.org/10.5281/zenodo.20421767"
+        }
+    ],
+    "PublicationYear": 2026
+}
