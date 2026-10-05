@@ -1,11 +1,40 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "IMUMIA2026: Multi-paradigm motor-imagery EEG dataset (IMU-MI_A)",
+  "description": "A multi-paradigm motor-imagery EEG dataset recorded from healthy participants at Inner Mongolia University. Participants imagined movements of five body parts (hand, foot, thumb, index finger, index-thumb pinch) on the left and right sides, under a Classic Arrow paradigm and a Cue-Execution dual-stage paradigm. This public sample contains five subjects from a 244-participant dataset, recorded with a 64-channel Neuroscan system at 1000 Hz and re-released in BIDS format via MOABB.",
+  "methods_description": "EEG was recorded with a Neuroscan SynAmps amplifier and a 64-channel Quik-Cap (Ag/AgCl passive electrodes, Cz reference, forehead ground, impedance below 10 kOhm) at 1000 Hz, with additional EOG, ECG and EMG channels. Each subject completed one session of five runs, one motor-imagery task per run, with visually cued left/right imagery trials.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
   "authors": {
     "Jianxiu Li": {},
     "Changming Wang": {},
     "Chao Chen": {}
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "motor imagery"
+    },
+    {
+      "term": "brain-computer interface"
+    },
+    {
+      "term": "fine motor imagery"
+    },
+    {
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+    },
+    {
+      "term": "Imagination",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D007092"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.5281/zenodo.20421767",
@@ -33,14 +62,11 @@
       "relation_type": "References"
     }
   ],
-  "title": "IMUMIA2026",
-  "license": "CC-BY-4.0",
-  "dataset_type": "derivative",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "1.03 GB (26 files)"
   ],
@@ -48,33 +74,8 @@
     ".edf",
     ".json",
     ".tsv",
-    ".yaml"
+    ".yaml",
+    ".yml"
   ],
-  "description": "A public five-subject sample of a 244-participant motor imagery EEG dataset recorded at Inner Mongolia University. Healthy participants performed cued left/right motor imagery of ten classes covering the hand, foot, thumb, index finger and index-thumb pinch. Each task was recorded under a Classic Arrow paradigm and a Cue-Execution dual-stage paradigm. Data were acquired with a 64-channel Neuroscan system at 1000 Hz and are formatted for use with MOABB.",
-  "methods_description": "EEG was recorded with a Neuroscan SynAmps amplifier and a 64-channel Quik-Cap (Ag/AgCl passive electrodes) at 1000 Hz, referenced to Cz with a forehead ground. Impedances were kept below 10 kOhm. Auxiliary EOG (HEO, VEO), EMG and ECG channels were recorded. Each subject completed one session of five runs, one motor-imagery task per run, with visual arrow cues and 4 s imagery intervals. The data are raw and unpreprocessed.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "motor imagery"
-    },
-    {
-      "term": "brain-computer interface"
-    },
-    {
-      "term": "fine motor imagery"
-    },
-    {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
-    },
-    {
-      "term": "Imagination",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D007092"
-    }
-  ],
-  "source_hash": "829b2892a1e7db53179c6c5dca19201d0fc85c4d0dd1ea2a59192c94f9f9c0fe"
+  "source_hash": "2ae140c1e53c1cf93a211947e7c3182f503be1c5b2d831f121987535334e6a39"
 }
