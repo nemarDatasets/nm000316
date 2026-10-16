@@ -1,0 +1,5 @@
+1.0.1 2026-10-16
+  - sourcedata: added the .cdt.dpa (channel labels, sampling rate, sample count) and .cdt.ceo (event list) sidecars of each recording for the 25 Curry sample files (task*/<id>.cdt) already in sourcedata/
+    (50 files, 461,018 bytes), unchanged from the Zenodo release 10.5281/zenodo.20421767 (members MI_A_Dataset/MI_A_Dataset/Raw_data/... of the archive MI_A_Dataset.zip).
+    The MOABB loader (moabb.datasets.IMUMIA2026) needs them to read a recording from this deposit.
+    No existing file changed; the BIDS tree is unchanged.
