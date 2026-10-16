@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "IMUMIA2026: Multi-paradigm motor-imagery EEG dataset (IMU-MI_A)",
-  "description": "A multi-paradigm motor-imagery EEG dataset (IMU-MI_A) recorded from healthy participants with a 64-channel Neuroscan system at 1000 Hz. Five body-part imagery tasks (hand, foot, thumb, index finger, and index-thumb pinch) were performed on the left and right sides under a Classic Arrow paradigm and a Cue-Execution dual-stage paradigm. This public sample contains five subjects from a larger 244-participant dataset and is re-released in BIDS format via MOABB.",
-  "methods_description": "EEG was recorded with a Neuroscan SynAmps amplifier and a 64-channel Quik-Cap (Ag/AgCl passive electrodes, Cz reference, forehead ground, impedance below 10 kOhm) at 1000 Hz, with auxiliary EOG, ECG and EMG channels. Each participant completed a single session of five runs, one motor-imagery task per run, with visual arrow cues and 4 s imagery periods.",
+  "description": "A multi-paradigm motor-imagery EEG dataset recorded with a 64-channel Neuroscan system at 1000 Hz from five healthy participants. This public sample comes from a larger 244-participant collection. Participants performed five body-part motor-imagery tasks (hand, foot, thumb, index finger, index-thumb pinch) with left/right laterality, each under a Classic Arrow paradigm and a Cue-Execution dual-stage paradigm. The data support research on fine motor imagery and brain-computer interfaces.",
+  "methods_description": "EEG was recorded with a Neuroscan SynAmps amplifier and a 64-channel Quik-Cap (Ag/AgCl passive electrodes, Cz reference, forehead ground, impedance below 10 kOhm) at 1000 Hz. EOG, ECG and EMG channels were also recorded. Each participant completed one session of five runs, one motor-imagery task per run, using visually cued arrow trials with 4 s imagery periods.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -68,10 +68,12 @@
     "eeg"
   ],
   "sizes": [
-    "3.25 GB (52 files)"
+    "3.25 GB (102 files)"
   ],
   "formats": [
     ".cdt",
+    ".ceo",
+    ".dpa",
     ".edf",
     ".json",
     ".md",
@@ -79,5 +81,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "1186f7877b87a4a5594c1fc0b0c0a226d7aed44390272a8b7306d1a87536c54b"
+  "source_hash": "9f681910ee0580be5e13303b2267665319782393f0434be13d7e6e77eddee126"
 }
