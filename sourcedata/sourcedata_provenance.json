@@ -8,8 +8,8 @@
  "license": "CC-BY-4.0",
  "doi": "10.5281/zenodo.20421767",
  "naming": "upstream_filenames_restored",
- "n_files": 25,
- "total_bytes": 2382790800,
+ "n_files": 75,
+ "total_bytes": 2383251818,
  "files": [
   {
    "file": "task1/0101001.cdt",
@@ -160,6 +160,365 @@
    "bytes": 92846400,
    "sha256": "11085a8532c84e838b9711eeb5391f7903f302d5f970b6201075ce008663123b",
    "subject": "5"
+  },
+  {
+   "file": "task1/0101001.cdt.ceo",
+   "bytes": 16039,
+   "sha256": "9d20694858d150c5255be9ff36c1c2b535bfbd512ce340b87385360bd9009493",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0101001.cdt.ceo"
+  },
+  {
+   "file": "task1/0101001.cdt.dpa",
+   "bytes": 10602,
+   "sha256": "af6b7185a986850614abe250aa205bcbd173753fc7295a45d19c367d678889f2",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0101001.cdt.dpa"
+  },
+  {
+   "file": "task1/0102001.cdt.ceo",
+   "bytes": 15730,
+   "sha256": "73380b22628568a215ae50db354f7534ce0faca1f6da4a3a665a2644a1824e07",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0102001.cdt.ceo"
+  },
+  {
+   "file": "task1/0102001.cdt.dpa",
+   "bytes": 9424,
+   "sha256": "33313b8a7b645161a79b93bcaa3c6ed2ba6d45e0119e467f6626ec9d42a01c4d",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0102001.cdt.dpa"
+  },
+  {
+   "file": "task1/0103001.cdt.ceo",
+   "bytes": 15873,
+   "sha256": "a87c77e7541b9b2463b76be5dee01015a1133d35f9095a3dd518417d949c8659",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0103001.cdt.ceo"
+  },
+  {
+   "file": "task1/0103001.cdt.dpa",
+   "bytes": 5422,
+   "sha256": "75ee69298e7820c72689049d1bd811d4394b77e1366153d6dab572ee16f667ff",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0103001.cdt.dpa"
+  },
+  {
+   "file": "task1/0104001.cdt.ceo",
+   "bytes": 15873,
+   "sha256": "7a367c076357a8896a10fb9f1c79b0ffae4ae52c6bbaf1fabb2cce7cdb82ba78",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0104001.cdt.ceo"
+  },
+  {
+   "file": "task1/0104001.cdt.dpa",
+   "bytes": 9393,
+   "sha256": "25e4195475e40572b6044930e1fb8013f98d3dbd8467769fd1b9d8ddbfe1a803",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0104001.cdt.dpa"
+  },
+  {
+   "file": "task1/0105001.cdt.ceo",
+   "bytes": 15873,
+   "sha256": "5c4cb09b8d7e1ecef5cfcb5a334700f44c27a9bb3ff4ad775fa4e8d091c56c11",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0105001.cdt.ceo"
+  },
+  {
+   "file": "task1/0105001.cdt.dpa",
+   "bytes": 9122,
+   "sha256": "ad49a8deb6ce79c2608df549516e2e9850f36c41ac359f6e29338ed3b1de2f66",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task1/0105001.cdt.dpa"
+  },
+  {
+   "file": "task2/0101050.cdt.ceo",
+   "bytes": 10719,
+   "sha256": "2d913b536cac5d3f267f39ac16b10f1077f386a3614b4de76cd0af57cc96df7a",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0101050.cdt.ceo"
+  },
+  {
+   "file": "task2/0101050.cdt.dpa",
+   "bytes": 9136,
+   "sha256": "d89c09b5b9f4ba662b2960800ba3b0702bc954741bd7e0566b172e12e2f1fbdd",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0101050.cdt.dpa"
+  },
+  {
+   "file": "task2/0102050.cdt.ceo",
+   "bytes": 10716,
+   "sha256": "53c2fe46e6bb855a36fdc4d83368b8d344ec4246df16aaa51f44f8716b3bb92e",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0102050.cdt.ceo"
+  },
+  {
+   "file": "task2/0102050.cdt.dpa",
+   "bytes": 5423,
+   "sha256": "aea5d2308c488bf4d247455bd8227bfefb4e5623141231ec35502d49ce2ddaac",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0102050.cdt.dpa"
+  },
+  {
+   "file": "task2/0103050.cdt.ceo",
+   "bytes": 10713,
+   "sha256": "1ba2e8d3a744d398a772824b4730b9f62e148c41d6460641dbc476660cb727b3",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0103050.cdt.ceo"
+  },
+  {
+   "file": "task2/0103050.cdt.dpa",
+   "bytes": 5424,
+   "sha256": "ba03d1d628dbb8b5cfb8ad9edacafaf1df91696792e842e49e1f36a025443d5b",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0103050.cdt.dpa"
+  },
+  {
+   "file": "task2/0104050.cdt.ceo",
+   "bytes": 10713,
+   "sha256": "839f3a21960a2261a4a94b64de8ad12e8d88e818d43ce5117ef6a78ff7d077bb",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0104050.cdt.ceo"
+  },
+  {
+   "file": "task2/0104050.cdt.dpa",
+   "bytes": 5423,
+   "sha256": "b8e9ab7dd81a3862d5b4f4b40b417583e40713afeb462ed60580439292161f82",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0104050.cdt.dpa"
+  },
+  {
+   "file": "task2/0105050.cdt.ceo",
+   "bytes": 10713,
+   "sha256": "578646656102929c3c566cffcb0a795c79729a8ae72b7bfc0a7b5e3454dbf614",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0105050.cdt.ceo"
+  },
+  {
+   "file": "task2/0105050.cdt.dpa",
+   "bytes": 5424,
+   "sha256": "081f8cebb7a16bd6cdc6398c078c406343d93569f63db3d5f112b5eb4dd0d0d7",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task2/0105050.cdt.dpa"
+  },
+  {
+   "file": "task3/0101100.cdt.ceo",
+   "bytes": 10707,
+   "sha256": "d1be5fbb49e24e9ababfa4fa819f70f46fc9abd70e41ee88883061dc6e1142d7",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0101100.cdt.ceo"
+  },
+  {
+   "file": "task3/0101100.cdt.dpa",
+   "bytes": 9085,
+   "sha256": "f4a052aa8fb54fd3809d76978d9c99cbc65144b4ce6cc2c34e4581dcc82e8e1f",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0101100.cdt.dpa"
+  },
+  {
+   "file": "task3/0102100.cdt.ceo",
+   "bytes": 10728,
+   "sha256": "fb928fa41d6f3c047b851e85232397b54d560a043ec47583b979ab2c2aa44316",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0102100.cdt.ceo"
+  },
+  {
+   "file": "task3/0102100.cdt.dpa",
+   "bytes": 5423,
+   "sha256": "9e5c098e1be54b268d91da225370bd98bcbf0bf6398bef4d642e42b96eb1d88c",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0102100.cdt.dpa"
+  },
+  {
+   "file": "task3/0103100.cdt.ceo",
+   "bytes": 10707,
+   "sha256": "aa05647d948e798ddd3bce927c27ea00549223f35b2c85270925b48e0f444c06",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0103100.cdt.ceo"
+  },
+  {
+   "file": "task3/0103100.cdt.dpa",
+   "bytes": 5423,
+   "sha256": "4e873cef01325bade529895cbc22c4efe6aebaa6913a055cf01e4ef69d931b9a",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0103100.cdt.dpa"
+  },
+  {
+   "file": "task3/0104100.cdt.ceo",
+   "bytes": 10719,
+   "sha256": "98790f946af257d50fa9253b5d40e9751b77340f1fced8e2407367d0a1383e0b",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0104100.cdt.ceo"
+  },
+  {
+   "file": "task3/0104100.cdt.dpa",
+   "bytes": 5422,
+   "sha256": "8cb5a68bd780deae4db2667b86b6e7eabc3410bb4303a6f3cbd184f0517d6e16",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0104100.cdt.dpa"
+  },
+  {
+   "file": "task3/0105100.cdt.ceo",
+   "bytes": 10707,
+   "sha256": "0eaa12d27169212c51f4d2bf45ac52a45e44ec5d3400feb140804ffb0435ee47",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0105100.cdt.ceo"
+  },
+  {
+   "file": "task3/0105100.cdt.dpa",
+   "bytes": 5421,
+   "sha256": "9775ed9bad9e4de625283fb612ae8bd4605708de4b009f1b6ce7e9eeab2d69be",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task3/0105100.cdt.dpa"
+  },
+  {
+   "file": "task4/01010150.cdt.ceo",
+   "bytes": 10707,
+   "sha256": "28617c03e276fcae2877b3f3ca9b8a5724b6899d23d8f5326ef9b1bb69434a56",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01010150.cdt.ceo"
+  },
+  {
+   "file": "task4/01010150.cdt.dpa",
+   "bytes": 9108,
+   "sha256": "3911428790c629980985d744bf7f1a660c173b3ce862b0359e39ee95b8dc1c7d",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01010150.cdt.dpa"
+  },
+  {
+   "file": "task4/01020150.cdt.ceo",
+   "bytes": 10707,
+   "sha256": "e90bf44b8a69a6652db655c3ad0bd64f2cbc30421e598111a2b7d17c9ed3e8e2",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01020150.cdt.ceo"
+  },
+  {
+   "file": "task4/01020150.cdt.dpa",
+   "bytes": 5425,
+   "sha256": "69f294db30f12669f19ac11f137ba36d5ee1302d410193b1a15f58b9af3c79c1",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01020150.cdt.dpa"
+  },
+  {
+   "file": "task4/01030150.cdt.ceo",
+   "bytes": 10707,
+   "sha256": "baf9b87b7e2e54eb05e197d2a7d74e30cc1c09b8ed4f677494f98a0228291817",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01030150.cdt.ceo"
+  },
+  {
+   "file": "task4/01030150.cdt.dpa",
+   "bytes": 5425,
+   "sha256": "230ac9d73fd76cff3f2f082de5d21a2b3f544ebfa7d78b40fb259de6cd73b0b0",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01030150.cdt.dpa"
+  },
+  {
+   "file": "task4/01040150.cdt.ceo",
+   "bytes": 10713,
+   "sha256": "3f27870a0f62804488629ccc3614d94848fa3ecf6e45534dd5b0b24e71f1dbb1",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01040150.cdt.ceo"
+  },
+  {
+   "file": "task4/01040150.cdt.dpa",
+   "bytes": 5425,
+   "sha256": "c543fad39ffbce7170f501ef0db4fc8360d4253563c59a6c011b4033d4920f9f",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01040150.cdt.dpa"
+  },
+  {
+   "file": "task4/01050150.cdt.ceo",
+   "bytes": 10716,
+   "sha256": "ab952b9fc3e9f21f5ec48aa90b84d4d8843781b631083388d186d9855008ca37",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01050150.cdt.ceo"
+  },
+  {
+   "file": "task4/01050150.cdt.dpa",
+   "bytes": 5423,
+   "sha256": "dddbbaf1df2cf9c12b299a981536fff8da43314ac05e86fb2e7b436c41ef40d4",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task4/01050150.cdt.dpa"
+  },
+  {
+   "file": "task5/01010200.cdt.ceo",
+   "bytes": 10725,
+   "sha256": "5967fc9949b3d95febe3ac7c62408c9f3d4d167575bca16ef911f87282dc0653",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01010200.cdt.ceo"
+  },
+  {
+   "file": "task5/01010200.cdt.dpa",
+   "bytes": 9113,
+   "sha256": "6785be31ad26d9ec457d4a0dfdfefe0ec4ed7a28cca95bcede416d5b8eccdf20",
+   "subject": "1",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01010200.cdt.dpa"
+  },
+  {
+   "file": "task5/01020200.cdt.ceo",
+   "bytes": 10767,
+   "sha256": "8e7d0ab0eaf34ab46a6147f06bf3c8288d9c9a30070e7eac9464fc686ad2968e",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01020200.cdt.ceo"
+  },
+  {
+   "file": "task5/01020200.cdt.dpa",
+   "bytes": 5424,
+   "sha256": "069f0cc0640dbe5265e169970b3eab5aab5d3503edfb941ad36dde7f4dba6145",
+   "subject": "2",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01020200.cdt.dpa"
+  },
+  {
+   "file": "task5/01030200.cdt.ceo",
+   "bytes": 10767,
+   "sha256": "c9f03944fb2cb862c4b7e187c292ef7236081b3a4996d826b53f1b0ddfe12621",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01030200.cdt.ceo"
+  },
+  {
+   "file": "task5/01030200.cdt.dpa",
+   "bytes": 5424,
+   "sha256": "9ea5d2b4783fc0dd0c9b3a872f0c508721a3db17c5467fb2763e72f1043a3f98",
+   "subject": "3",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01030200.cdt.dpa"
+  },
+  {
+   "file": "task5/01040200.cdt.ceo",
+   "bytes": 10767,
+   "sha256": "c8ea62f377d7d740403b69e4416fd675cd513bc37a95152ab92934b5b2015c58",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01040200.cdt.ceo"
+  },
+  {
+   "file": "task5/01040200.cdt.dpa",
+   "bytes": 5423,
+   "sha256": "8df8b1e157c5dbe87f467a040848642b8636d808dcc11a17004c32b8b788eeb3",
+   "subject": "4",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01040200.cdt.dpa"
+  },
+  {
+   "file": "task5/01050200.cdt.ceo",
+   "bytes": 10731,
+   "sha256": "9f5c03cea9c7c18244a05ff66321a67d721c27253616ed889258517c999e162e",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01050200.cdt.ceo"
+  },
+  {
+   "file": "task5/01050200.cdt.dpa",
+   "bytes": 5424,
+   "sha256": "f32613c22d8d8d777367d81c298d4517c38926722ed0745e18eba49a76588fd6",
+   "subject": "5",
+   "url": "https://zenodo.org/records/20421767/files/MI_A_Dataset.zip#MI_A_Dataset/MI_A_Dataset/Raw_data/task5/01050200.cdt.dpa"
+  }
+ ],
+ "revisions": [
+  {
+   "date": "2026-10-16",
+   "version": "1.0.1",
+   "added_files": 50,
+   "added_bytes": 461018,
+   "note": "Added the .cdt.dpa (channel labels, sampling rate, sample count) and .cdt.ceo (event list) sidecars of each recording (50 files, 461018 bytes); the original sourcedata snapshot held only the 25 Curry sample files (task*/<id>.cdt). Source: Zenodo record 20421767 (10.5281/zenodo.20421767), members MI_A_Dataset/MI_A_Dataset/Raw_data/... of the archive MI_A_Dataset.zip. The archive's size and MD5 match the Zenodo API; members were extracted with their CRC-32 checked. Every .cdt file already in the deposit is byte-identical (SHA-256) to its member in that archive."
   }
  ]
 }
